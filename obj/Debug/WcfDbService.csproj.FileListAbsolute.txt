@@ -1,0 +1,7 @@
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\bin\WcfDbService.dll.config
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\bin\WcfDbService.dll
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\bin\WcfDbService.pdb
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\obj\Debug\WcfDbService.csproj.AssemblyReference.cache
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\obj\Debug\WcfDbService.csproj.CoreCompileInputs.cache
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\obj\Debug\WcfDbService.dll
+D:\Fall_2022\PROG3170\Week_10\WcfDbService\obj\Debug\WcfDbService.pdb
